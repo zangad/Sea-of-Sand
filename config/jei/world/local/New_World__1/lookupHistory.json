@@ -1,9 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:turtle_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:diamond_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createbigcannons:casting_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:smooth_sandstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:cut_sandstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:suspicious_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
