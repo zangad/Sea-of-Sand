@@ -1,6 +1,6 @@
 # Sea of Sand
 
-Minecraft 1.21.1 NeoForge Modpack
+A Minecraft 1.21.1 NeoForge Modpack
 
 ## Theme
 
