@@ -1,2 +1,22 @@
-# Auto detect text files and perform LF normalization
+# Normalize line endings
 * text=auto
+
+# Treat these as text for readable diffs
+*.js text
+*.json text
+*.json5 text
+*.mcmeta text
+*.toml text
+*.cfg text
+*.properties text
+*.lang text
+*.txt text
+*.md text
+*.zs text
+
+# Binary assets
+*.png binary
+*.ogg binary
+*.ico binary
+*.jar binary
+*.zip binary

@@ -1,0 +1,65 @@
+# ===========================================
+# Minecraft Runtime
+# ===========================================
+
+logs/
+crash-reports/
+saves/
+screenshots/
+recordings/
+stats/
+
+# ===========================================
+# Cache Files
+# ===========================================
+
+usercache.json
+usernamecache.json
+realms_persistence.json
+
+# NeoForge/FML
+local/
+config/fml.toml.bak
+
+# ===========================================
+# Temporary / Generated Files
+# ===========================================
+
+*.log
+*.tmp
+*.bak
+*.old
+
+# ===========================================
+# Java / IDE
+# ===========================================
+
+.idea/
+.vscode/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# ===========================================
+# Operating System
+# ===========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================================
+# Optional
+# ===========================================
+
+# Uncomment if you don't want to version shader packs
+# shaderpacks/
+
+# Uncomment if you don't want to version downloaded resource packs
+# resourcepacks/
+
+# Uncomment if using Local History extensions
+.history/
