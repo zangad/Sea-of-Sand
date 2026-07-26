@@ -1,0 +1,50 @@
+/tp @s -880 63 45
+/gamemode creative
+/locate biome terralith:red_oasis
+/tp @s -2386 70 1223
+/locate biome terralith:desert_oasis
+/tp @s -2780 90 4510
+/locate biome terralith:desert_oasis
+/tp @s 751 65 -757
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamerule waterSourceConversion
+/ftbquests editing_mode true zangad
+/gamemode creative
+/time set day
+/gamemode creative
+/gamemode survival
+/locate biome minecraft:swamp
+/tp @s -561 65 1110
+/gamemode survival
+/time set day
+/time add 1d
+/gamemode creative
+/time set day
+/gamemode creative
+/locate structure vill
+/locate structure minecraft:village_desert
+/tp @s -464 ~ -752
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode creative
+/reloadCVT
+/gamemode survival
+/reload
+/time set day
+/time add 1d
+/gamemode creative
+/time set day
+/gamemode survival
+/time set day
+/time add 1d
+/time add 5d
+/gamemode creative
+/time add 5d
+/time set day
+/gamemode creative
+/gamemode survival
+/time add 1d

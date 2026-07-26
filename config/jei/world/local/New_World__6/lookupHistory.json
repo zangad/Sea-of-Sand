@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:oil_scanner"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

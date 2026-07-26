@@ -1,0 +1,23 @@
+ [
+   {
+     "inputs": [
+       "minecraft:sugar_cane"
+     ],
+	 
+     "output": "minecraft:air",
+	 
+	 "retrogen": false,
+	 "player_blocks": false,
+	 
+     "biomes": [
+       "minecraft:desert",
+	   "minecraft:beach"
+     ],
+	 
+     "dimensions": [
+       "minecraft:overworld"
+     ]
+
+   }
+ ]
+ 

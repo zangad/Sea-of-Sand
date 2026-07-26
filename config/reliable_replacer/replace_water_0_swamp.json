@@ -1,0 +1,29 @@
+ [
+   {
+     "inputs": [
+		"minecraft:water"
+     ],
+	 
+     "outputs": [
+		"minecraft:mud"
+	 ],
+	 
+	 "retrogen": false,
+	 "player_blocks": false,
+	 
+	 "biomes": [
+	   "minecraft:swamp",
+	   "minecraft:mangrove_swamp",
+	   "terralith:orchid_swamp"
+	 ],
+	 
+     "dimensions": [
+		"minecraft:overworld"
+     ],
+	 
+     "max_y": "62",
+	 "min_y": "52"
+
+   }
+ ]
+ 

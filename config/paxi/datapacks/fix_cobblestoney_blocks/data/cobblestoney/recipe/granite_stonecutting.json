@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ]
+}

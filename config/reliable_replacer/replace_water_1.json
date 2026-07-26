@@ -1,0 +1,27 @@
+ [
+   {
+     "inputs": [
+		"minecraft:water"
+     ],
+	 
+     "outputs": [
+		"minecraft:sand"
+	 ],
+	 
+	 "retrogen": false,
+	 "player_blocks": false,
+	 
+     "dimensions": [
+		"minecraft:overworld"
+     ],
+	 
+	 "not": {
+	   "biomes": ["terralith:desert_oasis"]
+	 },
+	 
+     "max_y": "62",
+	 "min_y": "52"
+
+   }
+ ]
+ 

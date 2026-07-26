@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:water_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_shovel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:oil_scanner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:goggles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"adfinders:metal_finder"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

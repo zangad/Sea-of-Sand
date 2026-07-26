@@ -1,0 +1,19 @@
+{
+	id: "a0d3d1ba-38fd-4b04-8642-a83fa73b5536"
+	type: "player"
+	player_name: "zangad"
+	ranks: {
+		a0d3d1ba-38fd-4b04-8642-a83fa73b5536: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zangad"
+		"ftbteams:description": ""
+		"ftbteams:color": "#67FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

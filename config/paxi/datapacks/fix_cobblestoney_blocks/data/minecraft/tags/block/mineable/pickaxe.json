@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "cobblestoney:granite_red",
+	"cobblestoney:granite_cecilia",
+	"cobblestoney:granite_pink",
+	"cobblestoney:granite_soladite",
+	"cobblestoney:granite_jade",
+	"cobblestoney:granite_purple",
+	"cobblestoney:dripstone_cobbled",
+	"cobblestoney:diorite_cobbled",
+	"cobblestoney:granite_cobbled",
+	"cobblestoney:calcite_cobbled",
+	"cobblestoney:tuff_cobbled",
+	"cobblestoney:andesite_cobbled",
+	"cobblestoney:stone_mud",
+	"cobblestoney:stone_silt"
+  ]
+}

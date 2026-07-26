@@ -1,0 +1,27 @@
+ [
+   {
+     "inputs": [
+       "minecraft:water"
+     ],
+	 
+     "outputs": [
+	   "cobblestoney:clay_silt",
+	   "cobblestoney:dirt_sand",
+	   "cobblestoney:dirt_clay",
+	   "cobblestoney:clay_sand",
+	   "minecraft:gravel",
+	   "minecraft:sandstone"
+	 ],
+	 
+	 "retrogen": false,
+	 "player_blocks": false,
+	 
+     "dimensions": [
+       "minecraft:overworld"
+     ],
+	 
+     "max_y": "51"
+
+   }
+ ]
+ 

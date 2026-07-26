@@ -1,0 +1,26 @@
+{
+	version: 1
+	uuid: "a0d3d1ba38fd4b048642a83fa73b5536"
+	name: "zangad#a0d3d1ba"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		5858032F922FF748: 1L
+	}
+	started: {
+		5858032F922FF748: 1784848567901L
+		1433B4488A376ED9: 1784848567901L
+		0000000000000001: 1784848567901L
+		2D1E55060C67E4F8: 1784848567901L
+	}
+	completed: {
+		5858032F922FF748: 1784848567903L
+		1433B4488A376ED9: 1784848567903L
+		14BC9E7D4CDCBC30: 1784848567903L
+		2D1E55060C67E4F8: 1784848567903L
+	}
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

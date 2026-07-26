@@ -1,0 +1,319 @@
+{
+  "profession": "minecraft:armorer",
+  "source": "Generated Example",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "numismatics:bevel",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 15,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+	  "tradeLevel": 1,
+	  "maxUses": 16,
+      "UTID": "level_1_coal"
+    },
+	{
+      "offer": {
+        "itemKey": "numismatics:bevel",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:charcoal",
+        "amount": 15,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+	  "tradeLevel": 1,
+	  "maxUses": 16,
+      "UTID": "level_1_charcoal"
+    },
+	{
+      "offer": {
+        "itemKey": "minecraft:chainmail_chestplate",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 4,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "level_1_chainmail_chestplate"
+    },
+	{
+      "offer": {
+        "itemKey": "minecraft:chainmail_helmet",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 2,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "level_1_chainmail_helmet"
+    },
+	{
+      "offer": {
+        "itemKey": "minecraft:chainmail_leggings",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 4,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "level_1_chainmail_leggings"
+    },
+	{
+      "offer": {
+        "itemKey": "minecraft:chainmail_boots",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 2,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel":1,
+      "UTID": "level_1_chainmail_boots"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_chestplate",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 9,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "level_2_iron_chestplate"
+    },
+	{
+      "offer": {
+        "itemKey": "minecraft:iron_helmet",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 5,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "level_2_iron_helmet"
+    },
+	{
+      "offer": {
+        "itemKey": "minecraft:iron_leggings",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 7,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "level_2_iron_leggings"
+    },
+	{
+      "offer": {
+        "itemKey": "minecraft:iron_boots",
+        "amount": 1,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 4,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "level_2_iron_boots"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:chainmail_helmet",
+          "amount": 1,
+          "enchantments": [],
+          "blacklist": [],
+          "effects": []
+        },
+        {
+          "itemKey": "minecraft:chainmail_chestplate",
+          "amount": 1,
+          "enchantments": [],
+          "blacklist": [],
+          "effects": []
+        },
+        {
+          "itemKey": "minecraft:chainmail_leggings",
+          "amount": 1,
+          "enchantments": [],
+          "blacklist": [],
+          "effects": []
+        },
+		{
+          "itemKey": "minecraft:chainmail_boots",
+          "amount": 1,
+          "enchantments": [],
+          "blacklist": [],
+          "effects": []
+        },
+      ],
+      "request": {
+        "itemKey": "numismatics:bevel",
+        "amount": 11,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "level_2_chainmail_set"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_sword",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKeys": [
+              "minecraft:sharpness"
+            ],
+            "minEnchantmentLevel": 3,
+            "maxEnchantmentLevel": 5
+          },
+          {
+            "enchantmentKeys": [
+              "minecraft:looting"
+            ],
+            "minEnchantmentLevel": 1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklist": [],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 30,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "example_enchantments"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKeys": [
+              "random"
+            ],
+            "minEnchantmentLevel": 2,
+            "maxEnchantmentLevel": 4
+          }
+        ],
+        "blacklist": [
+          "minecraft:binding_curse",
+          "minecraft:vanishing_curse"
+        ],
+        "effects": []
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 20,
+        "enchantments": [],
+        "blacklist": [],
+        "effects": []
+      },
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "example_random_book"
+    }
+  ]
+}
